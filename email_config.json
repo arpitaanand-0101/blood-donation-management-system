@@ -1,0 +1,7 @@
+{
+  "email_host": "smtp.gmail.com",
+  "email_port": 587,
+  "email_address": "anandarpita2020@gmail.com",
+  "email_password": "ylre vpwj jckd teec",
+  "use_tls": true
+}
